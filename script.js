@@ -1,4 +1,4 @@
-function calculateMinCost() {
+
   //your code here
   
   function minCostToFormRope(a) {
@@ -30,4 +30,4 @@ function calculateMinCost() {
   document.getElementById("result").textContent = cost;
 }
   
-}  
+ 
